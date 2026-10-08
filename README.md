@@ -3,7 +3,7 @@ A professional writeup for the HackerDNA lab “Hack the Login.” Includes meth
 
 # Hack the Login – Writeup
 
-🔗 Lab Reference: [Hack the Login](https://hackerdna.com/labs/hack-the-login)
+🔗 Lab Reference: [Hack the Login](https://hackerdna.com/labs/hack-the-login)  (https://hackerdna.com/labs/hack-the-login)
 
 ## 🎯 Objective
 Understand how insecure login mechanisms can be exploited and learn the importance of secure authentication practices.
